@@ -1,7 +1,11 @@
 Things designed by Juan Gonzalez-Gomez (Obijuan)
 ===============
 
-**Please note: This list of things was [automatically generated](https://github.com/carlosgs/export-things). Make sure to check the individual licenses and authorships.**  
+I've exported all my designs from thingiverse (#takerbot) using the [Export-things script](https://github.com/carlosgs/export-things) by Carlos Garcia Saura
+
+These repo will no longer be maintaned. It is just a safe place were store the design and keeping them open.
+
+
 1. [REPYZ modules](REPYZ-modules/)
 --------
 [![Image](REPYZ-modules/img/repyz-logo_preview_card.jpg)](REPYZ-modules/)  
