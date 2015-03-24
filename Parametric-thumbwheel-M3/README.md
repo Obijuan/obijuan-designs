@@ -31,7 +31,8 @@ Files
 [![Image](img/thumb_wheel_M3_preview_tinycard.jpg)](thumb_wheel_M3.stl)
  [ thumb_wheel_M3.stl](thumb_wheel_M3.stl)  
 
-
+[![Image](img/thumb_wheel_obijuan_freecad.jpg)](thumb_wheel.FCStd)
+ [ thumb_wheel.FCStd](thumb_wheel.FCStd)  
 
 Pictures
 --------
@@ -44,7 +45,7 @@ Pictures
 
 Tags
 --------
-knob , openscad , parametric , plastic_valley , prusa , thumbwheel , upgrades , useful  
+knob , openscad , parametric , plastic_valley , prusa , thumbwheel , upgrades , useful  , freecad
 
   
 
